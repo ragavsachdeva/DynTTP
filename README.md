@@ -26,4 +26,4 @@ We are attaching a jupyter notebook for **visualisation** that shows how to read
 
 You can find all the plots for our experiments under the Results folder.
 
-![image](Results/normalised_multi_distruptions/heatmaps/a280_n279_bounded-strongly-corr_01_items_k=10.png)
+![image](Results/normalised_multi_disruptions/heatmaps/a280_n279_bounded-strongly-corr_01_items_k=10.png)
