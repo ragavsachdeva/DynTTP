@@ -3,7 +3,7 @@
 Travelling Thief Problem (**TTP**) is a hybrid of the classic **NP-Hard** Travelling Salesman Problem (**TSP**) and the Knapsack Problem (**KP**). 
 **DynTTP** is an extension of the classic TTP where the problem  constraints  can  change  during  runtime.
 
-**Conference:** Accepted at ICONIP'21
+**Conference:** Accepted at ICONIP'20
 
 **Paper:** [pdf](https://arxiv.org/abs/2004.12045)
 
@@ -31,5 +31,3 @@ We are attaching a jupyter notebook for **visualisation** that shows how to read
 ## Results
 
 You can find all the plots for our experiments under the Results folder.
-
-![image](Results/normalised_multi_disruptions/heatmaps/a280_n279_bounded-strongly-corr_01_items_k=10.png)
